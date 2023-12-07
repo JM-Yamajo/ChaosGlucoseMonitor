@@ -1,4 +1,3 @@
-
 # Chaos Theory in Biosignals for Glucose Monitoring
 
 ## Overview
