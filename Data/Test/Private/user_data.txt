@@ -1,0 +1,11 @@
+name : J
+last_name : M
+age : 22
+gender : M
+weight : 75.0
+height : 1.75
+systolic_pressure : 120
+diastolic_pressure : 80
+hypoglycemia : no
+diabetes : no
+fasting : no
