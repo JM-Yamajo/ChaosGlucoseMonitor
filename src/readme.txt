@@ -1,2 +1,2 @@
-# Atractor_v10 python script for applying chaos theory to signals. This script is based on code available at [GitLab](https://gitlab.com/photoglucometerv2/compute-chaotic-descriptors-v2/-/blob/main/compute-chaotic-descriptors-v2.py)
+Atractor_v10 python script for applying chaos theory to signals. This script is based on code available at [GitLab](https://gitlab.com/photoglucometerv2/compute-chaotic-descriptors-v2/-/blob/main/compute-chaotic-descriptors-v2.py)
 
