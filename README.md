@@ -1,4 +1,4 @@
-# Chaos Theory in Biosignals for Glucose Monitoring
+# ChaosGlucoseMonitor
 
 ## Overview
 This project applies chaos theory to analyze biosignals for non-invasive blood glucose monitoring. It focuses on using electrocardiographic (ECG) and photoplethysmography (PPG) signals with an ESP32 microcontroller and MAX30105 sensor.
